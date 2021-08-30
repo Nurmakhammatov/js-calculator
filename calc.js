@@ -1,11 +1,3 @@
-// function innerTextReader(event) {
-//     console.log(event.target.innerText);
-// }
-
-// const btn = document.querySelector(".calc-buttons");
-// btn.addEventListener("click", innerTextReader);
-// // console.log(btn);
-
 let blackScreenText = "0";
 let commandButton = null;
 let totalResult = 0;
